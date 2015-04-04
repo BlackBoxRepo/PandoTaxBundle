@@ -1,0 +1,25 @@
+{
+    "name": "blackboxcode/pando-tax-bundle",
+    "description": "Pando TaxBundle",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Black Box Code",
+            "email": "contact@blackboxcode.com"
+        }
+    ],
+    "keywords": ["pando tax bundle"],
+    "license": ["LGPL-3.0"],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"BlackBoxCode\\Pando\\TaxBundle\\": ""}
+    },
+    "repositories": [{
+    }],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "develop"
+        }
+    }
+}
