@@ -1,5 +1,5 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\TaxBundle\Model;
+namespace BlackBoxCode\Pando\TaxBundle\Model;
 
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;

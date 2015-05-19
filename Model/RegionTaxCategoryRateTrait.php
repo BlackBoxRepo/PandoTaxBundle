@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\TaxBundle\Model;
+namespace BlackBoxCode\Pando\TaxBundle\Model;
 
-use BlackBoxCode\Pando\Bundle\BaseBundle\Model\IdTrait;
+use BlackBoxCode\Pando\BaseBundle\Model\IdTrait;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
 

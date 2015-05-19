@@ -1,9 +1,9 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\TaxBundle\Model;
+namespace BlackBoxCode\Pando\TaxBundle\Model;
 
 use Doctrine\Common\Collections\ArrayCollection;
 
-interface RegionInterface extends \BlackBoxCode\Pando\Bundle\ProductSaleBundle\Model\RegionInterface
+interface RegionInterface extends \BlackBoxCode\Pando\ProductSaleBundle\Model\RegionInterface
 {
     /**
      * @return ArrayCollection<RegionTaxCategoryRateInterface>
